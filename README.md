@@ -44,9 +44,27 @@ With over seven years of experience in customer service, transportation, and ope
 ## Certifications
 
 <div>
-<a href="https://www.coursera.org/share/7bad6dfd3dbe853db7203d3d924057b1">
-  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
+  <a href="https://coursera.org/share/4fefeb3db6c6a69162e359ccdcab8a1b">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%3A%20Foundations%20of%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </a>
+<a href="https://coursera.org/share/8a3953b958ff76695d151891d0315ea1">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%3A%20Play%20It%20Safe%3A%20Manage%20Security%20Risks-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+<a href="https://coursera.org/share/7bad6dfd3dbe853db7203d3d924057b1">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%3A%20Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+<a href="https://coursera.org/share/b1206074646594593d1285c63b15d94e">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
+
+    
+
+
+
+</a>
+    
 </div>
 
 ## Projects
