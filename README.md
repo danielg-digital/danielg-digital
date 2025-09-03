@@ -9,6 +9,11 @@ With over seven years of experience in customer service, transportation, and ope
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
+<a href="https://github.com/danielgutierrez/kali-lab-project">
+  <img src="https://img.shields.io/badge/-Kali%20Linux%20(Familiar)-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+</a>
+
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
@@ -20,6 +25,16 @@ With over seven years of experience in customer service, transportation, and ope
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+## Operating Systems & CLI
+
+<a href="#"><img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Kali%20Linux%20(Familiar)-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /></a>
+
+## Virtualization & Cloud
+
+<a href="#"><img src="https://img.shields.io/badge/-Hyper-V-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /></a>
 
 ### Network
 <div>
@@ -37,10 +52,15 @@ With over seven years of experience in customer service, transportation, and ope
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <a href="#"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+## Scripting & Automation
+<div>
+<a href="#"><img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+<div>
+    
 ## Certifications
 
 <div>
