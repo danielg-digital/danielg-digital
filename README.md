@@ -9,9 +9,6 @@ With over seven years of experience in customer service, transportation, and ope
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-<a href="https://github.com/danielgutierrez/kali-lab-project">
-  <img src="https://img.shields.io/badge/-Kali%20Linux%20(Familiar)-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-</a>
 
 
 | Skill                                         | Associated Project         |
