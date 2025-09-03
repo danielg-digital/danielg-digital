@@ -14,7 +14,7 @@ With over seven years of experience in customer service, transportation, and ope
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SQL                                           | <a href="https://github.com/danielg-digital/SQL-practice-project/tree/main">SQL Log & Employee Security Analysis</a>|
-| Linux
+| Linux                                         | <a href="https://github.com/danielg-digital/Linux-File-Permissions-Management">Linux File Permissions Management</a>|
 
 
 ## Tools
