@@ -33,8 +33,9 @@ With over seven years of experience in customer service, transportation, and ope
 <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /></a>
 
 ## Virtualization & Cloud
+<a href="#"><img src="https://img.shields.io/badge/-Hyper%2DV-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /></a>
 
-<a href="#"><img src="https://img.shields.io/badge/-Hyper-V-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /></a>
+
 
 ### Network
 <div>
