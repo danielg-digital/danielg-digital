@@ -27,6 +27,7 @@ With over seven years of experience in customer service, transportation, and ope
 
 <a href="#"><img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Kali%20Linux%20(Familiar)-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /></a>
 
 ## Virtualization & Cloud
